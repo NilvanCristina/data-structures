@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Code/git/c-data-structures/Hash tables/hash-table-open-addressing/hash_table.c
+stdio.h
+-
+hash_table.h
+D:/Code/git/c-data-structures/Hash tables/hash-table-open-addressing/hash_table.h
+
+D:/Code/git/c-data-structures/Hash tables/hash-table-open-addressing/hash_table.h
+
+D:/Code/git/c-data-structures/Hash tables/hash-table-open-addressing/main.c
+stdio.h
+-
+stdlib.h
+-
+hash_table.h
+D:/Code/git/c-data-structures/Hash tables/hash-table-open-addressing/hash_table.h
+

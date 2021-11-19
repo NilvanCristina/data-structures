@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Code/git/c-data-structures/Trees/binary-search-tree/binary_search_tree.c
+stdio.h
+-
+stdlib.h
+-
+binary_search_tree.h
+D:/Code/git/c-data-structures/Trees/binary-search-tree/binary_search_tree.h
+
+D:/Code/git/c-data-structures/Trees/binary-search-tree/binary_search_tree.h
+
+D:/Code/git/c-data-structures/Trees/binary-search-tree/main.c
+stdio.h
+-
+binary_search_tree.h
+D:/Code/git/c-data-structures/Trees/binary-search-tree/binary_search_tree.h
+
